@@ -12,9 +12,9 @@
     },
 
     "dependencies": {
-        "bignumber": "latest",
-        "ctype": "latest",
-        "cli": "latest",
-        "nodeunit": "latest"
+        "bignumber": "*",
+        "ctype": "*",
+        "cli": "*",
+        "nodeunit": "*"
     }
 }
